@@ -1,0 +1,11 @@
+llama-index
+pypdf
+python-dotenv
+ipykernel
+torch
+torchvision
+pillow
+python-dotenv
+transformers
+streamlit
+streamlit-chat
